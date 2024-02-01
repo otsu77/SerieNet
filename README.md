@@ -76,8 +76,8 @@ dans la base de données MySQL pour récupérer les informations des séries TV 
 * **otsu** _alias_ [@otsu77](https://github.com/otsu77)
 
 * Professeurs encadrants :
-  * **M. BROISIN JULIEN** _alias_ [@bretonJulien](https://www.linkedin.com/in/jln-brtn/)
-  * **M. BRETON JULIEN** _alias_ [@broisinJulien](https://www.linkedin.com/in/jbroisin/)
+  * **M. BRETON JULIEN** _alias_ [@bretonJulien](https://www.linkedin.com/in/jln-brtn/) 
+  * **M. BROISIN JULIEN** _alias_ [@broisinJulien](https://www.linkedin.com/in/jbroisin/)
 
 ## Crédits
 
