@@ -73,7 +73,7 @@ dans la base de données MySQL pour récupérer les informations des séries TV 
 ## Auteurs
 
 * **Anrifou Amdjad** _alias_ [@Maxiwere45](https://github.com/Maxiwere45)
-* **otsu** _alias_ [@otsu77](https://github.com/otsu77)
+* **otsu**
 
 * Professeurs encadrants :
   * **M. BRETON JULIEN** _alias_ [@bretonJulien](https://www.linkedin.com/in/jln-brtn/) 
